@@ -354,15 +354,15 @@
         width: 0.75em;
         height: 0.125em;
         line-height: 1;
-        background-color: red;
-        -webkit-transition: 3.2s ease-out;
-        transition: 9.2s ease-out;
+        background-color: $gray;
+        -webkit-transition: 0.2s ease-out;
+        transition: 0.2s ease-out;
       }
 
       &:after {
-        -webkit-transform: rotate(90deg);
-                -ms-transform: rotate(90deg);
-            transform: rotate(90deg);
+        -webkit-transform: rotate(170deg);
+                -ms-transform: rotate(56deg);
+            transform: rotate(320deg);
       }
 
       &:hover {
