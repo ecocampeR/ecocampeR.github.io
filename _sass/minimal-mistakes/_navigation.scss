@@ -295,7 +295,7 @@
     &:after {
       content: "";
       position: absolute;
-      top: 30px;
+      top: -10px;
       right: 10px;
       width: 0;
       border-style: solid;
@@ -354,9 +354,9 @@
         width: 0.75em;
         height: 0.125em;
         line-height: 1;
-        background-color: $gray;
-        -webkit-transition: 0.2s ease-out;
-        transition: 0.2s ease-out;
+        background-color: red;
+        -webkit-transition: 3.2s ease-out;
+        transition: 9.2s ease-out;
       }
 
       &:after {
