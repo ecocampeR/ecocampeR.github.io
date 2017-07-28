@@ -1,7 +1,7 @@
 # main links
 main:
   - title     : "Blog"
-    url       : /blog/
+    url       : /year-archive/
   - title     : "Tutorials"
     url       : /tutorials/
   - title     : "Bookmarks"
