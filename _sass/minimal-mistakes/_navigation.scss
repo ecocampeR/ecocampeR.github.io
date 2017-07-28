@@ -360,9 +360,9 @@
       }
 
       &:after {
-        -webkit-transform: rotate(170deg);
-                -ms-transform: rotate(56deg);
-            transform: rotate(320deg);
+        -webkit-transform: rotate(90deg);
+                -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
       }
 
       &:hover {
@@ -390,9 +390,9 @@
 
     /* on hover show expand*/
     label:hover:after {
-      -webkit-transform: rotate(90deg);
-              -ms-transform: rotate(90deg);
-          transform: rotate(90deg);
+      -webkit-transform: rotate(270deg);
+              -ms-transform: rotate(110deg);
+          transform: rotate(20deg);
     }
 
     input:checked + label:hover:after {
