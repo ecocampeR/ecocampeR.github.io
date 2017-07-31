@@ -66,11 +66,11 @@ title: "Team"
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/images/bio-ced.jpg" alt="Cedric" style="width:100%">
+      <img src="../images/bio-ced.jpg" alt="Cedric" style="width:100%">
       <div class="container">
         <h2>Cédric Scherer</h2>
         <p class="title">Ecological and Epidemiological Modeller &amp; Founder</p>
-        <p>"HEUREKA! Oh wait, I just need to...""</p>
+        <p>"HEUREKA! Oh wait, I just need to..."</p>
         <p>scherer@izw-berlin.com</p>
         <p><button class="button">CV</button></p>
         <p><button class="button">GitHub</button></p>
@@ -82,7 +82,7 @@ title: "Team"
 
   <div class="column">
     <div class="card">
-      <img src="https://i1.rgstatic.net/ii/profile.image/AS%3A363497562099712%401463675980173_l/Marco_Sciaini.png" alt="Marco" style="width:100%">
+      <img src="../images/bio-marco.jpg alt="Marco" style="width:100%">
       <div class="container">
         <h2>Marco Sciaini</h2>
         <p class="title">Ecological and Spatial Modeller &amp; Founder</p>
