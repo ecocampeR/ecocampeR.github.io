@@ -86,7 +86,7 @@ title: "Team"
       <div class="container">
         <h2>Marco Sciaini</h2>
         <p class="title">Ecological and Spatial Modeller &amp; Founder</p>
-        <p>"I ordered what?""</p>
+        <p>"I ordered what?"</p>
         <p>sciaini.marco@gmail.com</p>
         <p><button class="button">CV</button></p>
         <p><button class="button">Personal Page</button></p>
