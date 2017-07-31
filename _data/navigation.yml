@@ -1,23 +1,31 @@
-# main links
-main:
-  - title     : "Blog"
-    url       : /year-archive/
-  - title     : "Tutorials"
-    url       : /tutorials/
-  - title     : "Bookmarks"
-    url       : /linklist/
-  - title     : "Misc"
-    url       : /misc/
-  - title     : "Archive"
-    url       : /archive/
-  - title     : "Team"
-    url       : /team/
+# Site navigation links
 
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+- title     : "BLOG"
+  url       : /blog/
+  excerpt   : "Camper's Latest Posts"
+  image     : ../images/icon-blog.png
+
+- title     : "TUTORIALS"
+  url       : /tutorials/
+  excerpt   : "Tutorials & Teaching Material"
+  image     : ../images/icon-tutorials.png
+
+- title     : "BOOKMARKS"
+  url       : /linklist/
+  excerpt   : "List of Interesting Links"
+  image     : ../images/icon-bookmarks.png
+
+- title     : "MISC"
+  url       : /misc/
+  excerpt   : "Miscellaneous Stuff"
+  image     : ../images/icon-misc.png
+
+- title     : "ARCHIVE"
+  url       : /archive/
+  excerpt   : "Archieved Blog Posts"
+  image     : ../images/icon-archive.png
+
+- title     : "TEAM"
+  url       : /team/
+  excerpt   : "The Nerds Camping Here"
+  image     : ../images/icon-team.png
